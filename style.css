@@ -1,0 +1,18 @@
+.rounded {
+  border-radius: 50%;
+}
+
+.edit {
+  margin: 20px;
+  padding: 40px;
+  background-color: gray;
+  border: 5px solid whitesmoke;
+}
+
+.ol-list {
+  border: 5px dotted white;
+}
+
+.direction {
+  text-align: right;
+}
